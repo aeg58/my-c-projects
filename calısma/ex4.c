@@ -8,7 +8,7 @@ int main(){
 
     if (age >= 18)
     {
-        printf("resitsiniz")
+        printf("resitsiniz\n")
     }
     
 }
