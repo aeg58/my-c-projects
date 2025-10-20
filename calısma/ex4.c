@@ -15,6 +15,6 @@ int main(){
 
     }
 
-    printf("");
+    printf("Toplam ");
     
 }
