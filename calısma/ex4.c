@@ -7,6 +7,7 @@ int main(){
     {
         printf("enter a number : ");
         scanf("%d",&sayi);
+        
 
     }
     
