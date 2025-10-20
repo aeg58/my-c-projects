@@ -13,6 +13,6 @@ int main(){
 
     }
 
-    ort 
+    ort = (float)toplam
     
 }
