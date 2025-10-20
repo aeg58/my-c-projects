@@ -8,7 +8,7 @@ int main(){
     for ( i = 0; i <= 5; i++)
     {
         printf("%d. notu gir : ",i);
-        scanf("%d"),not;
+        scanf("%d"),&not;
         toplam += not;
 
     }
