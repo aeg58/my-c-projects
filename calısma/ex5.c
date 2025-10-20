@@ -17,7 +17,7 @@ int main(){
 
     printf("\nOrtalama : %.2f\n",ort);
 
-    switch (ort)
+    switch (ort/10)
     {
     case constant expression:
         /* code */
