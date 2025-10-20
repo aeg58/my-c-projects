@@ -5,6 +5,6 @@ int main(){
     int x,y;
     float result;
     printf("Birinci sayıyı gir : ");
-    scanf("%d",);
+    scanf("%d",&x);
 
 }
