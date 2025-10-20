@@ -7,7 +7,7 @@ int main(){
     {
         printf("enter a number : ");
         scanf("%d",&sayi);
-        if (condition)
+        if (sayi==0)
         {
             /* code */
         }
