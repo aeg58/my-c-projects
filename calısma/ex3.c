@@ -10,7 +10,7 @@ int main(){
     printf("ikinci sayıyı gir : ");
     scanf("%d", &y);
 
-    result = (float)x/y;
+    result = (float)x /y ;
     printf("Sonuç : %.2f\n");
 
     return 0;
