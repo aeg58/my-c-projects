@@ -15,7 +15,7 @@ int main(){
 
     ort = (float)toplam/5;
 
-    printf("\nOrtalama : ");
+    printf("\nOrtalama : %.2f\n");
 
     
 }
