@@ -7,6 +7,7 @@ int main(){
     printf("Birinci sayıyı gir : ");
     scanf("%d",&x);
 
-    printf();
+    printf("ikinci sayıyı gir : ");
+    scanf()
 
 }
