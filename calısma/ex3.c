@@ -8,6 +8,6 @@ int main(){
     scanf("%d",&x);
 
     printf("ikinci sayıyı gir : ");
-    scanf("%d");
+    scanf("%d", );
 
 }
