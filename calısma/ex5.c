@@ -1,1 +1,3 @@
-#include <stdi
+#include <stdio.h>
+
+int main()
