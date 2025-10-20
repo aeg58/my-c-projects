@@ -35,7 +35,7 @@ int main(){
         default:
             printf("Harf notu: F\n");
             break;
-    }
+    
     }
 
     
