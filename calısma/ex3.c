@@ -11,7 +11,8 @@ int main(){
     scanf("%d", &y);
 
     result = (float)x /y ;
-    printf("Sonuç : %.2f\n",result);
+    printf("Sonuç : %.2f\n",result);10
+    
 
     return 0;
 
