@@ -9,7 +9,7 @@ int main(){
     {
         printf("%d. notu gir : ",i);
         scanf("%d"),not;
-        toplam += n
+        toplam += no
     }
     
 }
