@@ -6,7 +6,7 @@ int main(){
     while ("condition")
     {
         printf("enter a number : ");
-        
+        scanf("")
 
     }
     
