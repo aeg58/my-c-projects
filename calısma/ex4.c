@@ -16,5 +16,7 @@ int main(){
     }
 
     printf("Toplam : %d\n",toplam);
+    return 0;
+    
     
 }
