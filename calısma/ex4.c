@@ -5,8 +5,8 @@ int main(){
 
     while ("condition")
     {
-        printf();
-        
+        printf("");
+
     }
     
 }
