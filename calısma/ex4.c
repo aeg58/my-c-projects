@@ -10,7 +10,7 @@ int main(){
         if (sayi==0)
         break;
 
-        toplam+=
+        toplam+=sayi;
         
 
     }
