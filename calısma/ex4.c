@@ -5,7 +5,8 @@ int main(){
 
     while ("condition")
     {
-        printf("Bir sayi ");
+        printf("enter a number : ");
+        
 
     }
     
