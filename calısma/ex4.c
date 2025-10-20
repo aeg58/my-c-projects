@@ -9,7 +9,7 @@ int main(){
         scanf("%d",&sayi);
         if (sayi==0)
         {
-            /* code */
+            
         }
         
 
