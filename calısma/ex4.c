@@ -13,5 +13,6 @@ int main(){
     }else {
         printf("resit degilsiniz\n");
     }
+    return 0;
     
 }
