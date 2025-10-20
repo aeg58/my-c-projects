@@ -4,7 +4,7 @@ int main(){
 
     int age;
     printf("yasinizi girin : ");
-    scanf("%d",age);
+    scanf("%d",&age);
 
     if (age >= 18)
     {
@@ -14,5 +14,5 @@ int main(){
         printf("resit degilsiniz\n");
     }
     return 0;
-    
+
 }
