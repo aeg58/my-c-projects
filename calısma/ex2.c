@@ -17,7 +17,7 @@ int main(){
     printf("\n You entered : \n");
     printf("Age : %d\n",age);
     printf("height : %.2f m \n",height);
-    printf("initial  : %c \n ",initial);
+    printf("initial   : %c \n ",initial);
 
     
     return 0;
