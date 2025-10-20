@@ -8,9 +8,7 @@ int main(){
         printf("enter a number : ");
         scanf("%d",&sayi);
         if (sayi==0)
-        {
-            
-        }
+        break;
         
 
     }
