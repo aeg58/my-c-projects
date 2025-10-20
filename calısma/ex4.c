@@ -2,5 +2,5 @@
 
 int main(){
 
-    int age
+    int age =
 }
