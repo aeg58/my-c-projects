@@ -1,42 +1,53 @@
 #include <stdio.h>
 
-int main(){
-    int not,toplam =0;
-    int ort;
-    int i;
+int main(void) {
+    int a, b, secim;
+    float sonuc;
 
-    for ( i = 1; i <= 5; i++)
-    {
-        printf("%d. notu gir : ",i);
-        scanf("%d",&not);
-        toplam += not;
+    while (1) {
+        printf("\n--- Hesap Makinesi ---\n");
+        printf("1. Toplama\n");
+        printf("2. Çıkarma\n");
+        printf("3. Çarpma\n");
+        printf("4. Bölme\n");
+        printf("5. Çıkış\n");
+        printf("Seçiminiz: ");
+        scanf("%d", &secim);
 
+        if (secim == 5) {
+            printf("Program sonlandırıldı.\n");
+            break;
+        }
+
+        printf("İki sayı girin: ");
+        scanf("%d %d", &a, &b);
+
+        switch (secim) {
+            case 1:
+                sonuc = a + b;
+                printf("Sonuç: %.2f\n", sonuc);
+                break;
+            case 2:
+                sonuc = a - b;
+                printf("Sonuç: %.2f\n", sonuc);
+                break;
+            case 3:
+                sonuc = a * b;
+                printf("Sonuç: %.2f\n", sonuc);
+                break;
+            case 4:
+                if (b != 0)
+                    sonuc = (float)a / b;
+                else {
+                    printf("0'a bölme hatası!\n");
+                    continue; // tekrar menüye dön
+                }
+                printf("Sonuç: %.2f\n", sonuc);
+                break;
+            default:
+                printf("Geçersiz seçim!\n");
+        }
     }
 
-    ort = toplam/5;
-
-    printf("\nOrtalama : %d\n",ort);
-
-    switch (ort/10)
-    {
-    case 10:
-        case 9:
-            printf("Harf notu: A\n");
-            break;
-        case 8:
-            printf("Harf notu: B\n");
-            break;
-        case 7:
-            printf("Harf notu: C\n");
-            break;
-        case 6:
-            printf("Harf notu: D\n");
-            break;
-        default:
-            printf("Harf notu: F\n");
-            break;
-    
-    }
-
-    
+    return 0;
 }
