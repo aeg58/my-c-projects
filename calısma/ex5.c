@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    int not,toplam 
+    int not,toplam =0;
+    
 }
