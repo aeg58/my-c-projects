@@ -3,5 +3,9 @@
 int main(){
     int toplam = 0,sayi;
 
-    whi
+    while ("condition")
+    {
+        /* code */
+    }
+    
 }
