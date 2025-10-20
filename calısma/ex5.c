@@ -13,7 +13,7 @@ int main(){
 
     }
 
-    ort = (float)toplam/5;
+    ort = toplam/5;
 
     printf("\nOrtalama : %.2f\n",ort);
 
