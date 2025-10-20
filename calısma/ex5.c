@@ -15,7 +15,7 @@ int main(){
 
     ort = toplam/5;
 
-    printf("\nOrtalama : %.2f\n",ort);
+    printf("\nOrtalama : %d\n",ort);
 
     switch (ort/10)
     {
