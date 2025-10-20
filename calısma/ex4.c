@@ -6,7 +6,7 @@ int main(){
     printf("yasinizi girin : ");
     scanf("%d",age);
 
-    if (age >)
+    if (age )
     {
         /* code */
     }
