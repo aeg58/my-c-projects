@@ -3,7 +3,7 @@
 int main(){
 
     int i ;
-    for ( i = 0; i < ; i++)
+    for ( i = 0; i < 5; i++)
     {
         /* code */
     }
