@@ -11,7 +11,7 @@ int main(){
         scanf("%d",&not);
         toplam += not;
 
-    }
+    }100
 
     ort = toplam/5;
 
