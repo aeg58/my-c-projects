@@ -2,5 +2,6 @@
 
 int main(){
 
-    int age =
+    int age;
+    printf
 }
