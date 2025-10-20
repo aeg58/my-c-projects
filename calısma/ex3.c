@@ -10,6 +10,6 @@ int main(){
     printf("ikinci sayıyı gir : ");
     scanf("%d", &y);
 
-    res
+    result =
 
 }
