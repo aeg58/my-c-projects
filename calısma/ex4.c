@@ -3,7 +3,7 @@
 int main(){
 
     int i ;
-    for (size_t i = 0; i < count; i++)
+    for ( i = 0; i < count; i++)
     {
         /* code */
     }
