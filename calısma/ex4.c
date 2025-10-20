@@ -7,7 +7,7 @@ int main(){
     scanf("%d",&age);
 
     if (age >= 18)
-    {20
+    {
         printf("resitsiniz\n");
     
     }else {
