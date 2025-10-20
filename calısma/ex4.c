@@ -7,5 +7,5 @@ int main(){
     {
         printf("Satir %d\n",i);
     }
-    
+    return 0;
 }
