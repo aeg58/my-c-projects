@@ -11,5 +11,6 @@ int main(){
     scanf("%d", &y);
 
     result = (float)x/y
+    printf
 
 }
