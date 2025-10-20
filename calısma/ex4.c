@@ -10,6 +10,8 @@ int main(){
     {
         printf("resitsiniz\n")
     
-    }else
+    }else {
+        printf
+    }
     
 }
