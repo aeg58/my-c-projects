@@ -11,7 +11,7 @@ int main(){
         printf("resitsiniz\n");
     
     }else {
-        printf("resit değ");
+        printf("resit degilsiniz");
     }
     
 }
