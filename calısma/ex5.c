@@ -19,12 +19,23 @@ int main(){
 
     switch (ort/10)
     {
-    case constant expression:
-        /* code */
-        break;
-    
-    default:
-        break;
+    case 10:
+        case 9:
+            printf("Harf notu: A\n");
+            break;
+        case 8:
+            printf("Harf notu: B\n");
+            break;
+        case 7:
+            printf("Harf notu: C\n");
+            break;
+        case 6:
+            printf("Harf notu: D\n");
+            break;
+        default:
+            printf("Harf notu: F\n");
+            break;
+    }
     }
 
     
