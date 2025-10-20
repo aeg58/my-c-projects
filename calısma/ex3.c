@@ -4,6 +4,6 @@ int main(){
 
     int x,y;
     float result;
-    
+    printf();
 
 }
