@@ -8,7 +8,7 @@ int main(){
 
     if (age >= 18)
     {
-        /* code */
+        
     }
     
 }
