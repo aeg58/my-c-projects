@@ -7,7 +7,7 @@ int main(){
 
     for ( i = 0; i <= 5; i++)
     {
-        printf("%d. notu gir : ",);
+        printf("%d. notu gir : ",i);
         scanf("");
     }
     
