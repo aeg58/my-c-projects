@@ -7,7 +7,11 @@ int main(){
     {
         printf("enter a number : ");
         scanf("%d",&sayi);
-        if sayi =
+        if (condition)
+        {
+            /* code */
+        }
+        
 
     }
     
