@@ -13,4 +13,6 @@ int main(){
     result = (float)x/y
     printf("Sonuç : %.2f\n");
 
+    return 0;
+
 }
