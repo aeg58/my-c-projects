@@ -15,4 +15,5 @@ int main(){
 
     ort = (float)toplam/5;
     
+    
 }
