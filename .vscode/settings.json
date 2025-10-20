@@ -1,12 +1,12 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
 
-    "emeraldwalk.runonsave": {
+     "emeraldwalk.runonsave": {
     "commands": [
       {
         "match": ".*",
         "cmd": "powershell -NoProfile -ExecutionPolicy Bypass -File .vscode\\on-save.ps1",
-        "runIn": "backend"
+        "runIn": "terminal"
       }
     ]
   },
