@@ -3,7 +3,7 @@
 int main(void) {
     int a = 10;
     int *p = 5;
-    int *p = 5;
+    
     int **pp = &p;
 
     printf("a = %d\n", a);
