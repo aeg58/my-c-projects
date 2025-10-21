@@ -21,4 +21,6 @@ int main(void)
         if (sayilar[i]>max)
             max = sayilar[i];           
     }
+
+    
 }
