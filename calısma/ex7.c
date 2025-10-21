@@ -2,7 +2,7 @@
 
 void degistir(int dizi[],int boyut){
 int i;
-for 
+f
 }
 
 
