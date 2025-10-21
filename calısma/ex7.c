@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void degistir(int dizi){
+void degistir(int dizi
+]){
 
 }
 
