@@ -3,7 +3,7 @@
 void yazdir(int dizi[], int boyut){
  int i;
  printf("Dizi elemanlari: ");
- for ( i = 0; i < count; i++)
+ for ( i = 0; i < boyut; i++)
  {
     printf("%d ", dizi[i]);
  }
