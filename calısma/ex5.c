@@ -6,5 +6,9 @@ int main(void) {
    float ort;
 
    printf("5 sayi girin : \n");
+   for ( i = 0; i < count; i++)
+   {
+    /* code */
+   }
    
 }
