@@ -9,7 +9,7 @@ int main(void)
     for (i = 0; i < 5; i++)
     {
         scanf("%d", &sayilar[i]);
-        toplam += sayilar[i];
+        
     }
 
     min = sayilar[0];
