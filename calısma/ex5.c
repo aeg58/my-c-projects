@@ -17,7 +17,7 @@ int main(void)
            if (dizi[j]>dizi[j+1])
            {
             temp=dizi[j];
-            dizi[j]
+            dizi[j]=
            }
            
 
