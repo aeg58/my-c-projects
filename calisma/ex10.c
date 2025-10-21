@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-void ikiKatla(){}
+void ikiKatla(int *dizi){}
