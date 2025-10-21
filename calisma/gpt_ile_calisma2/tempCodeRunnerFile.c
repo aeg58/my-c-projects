@@ -4,6 +4,6 @@ int main(){
     char mesaj[] = "Merhaba";
     printf("%s\n",mesaj);
     char *p = &mesaj[0];
-    printf("*p = %c\n", *p);
+    printf("*p = ",*p);
     return 0;
 }
