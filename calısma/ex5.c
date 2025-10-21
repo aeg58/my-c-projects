@@ -15,7 +15,7 @@ int main(void)
     min = sayilar[0];
     max = sayilar[0];
 
-    for ( i = ""; i < count; i++)
+    for ( i = 1; i < count; i++)
     {
         /* code */
     }
