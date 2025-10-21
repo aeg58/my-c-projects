@@ -2,5 +2,5 @@
 
 int main(){
     char mesaj[] = "Merhaba";
-    printf("%s");
+    printf("%s\n");
 }
