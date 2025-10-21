@@ -9,6 +9,8 @@ int main(void) {
     {
         scanf("%d",sayilar[i]);
     }
+
+    pri
     
 
 }
