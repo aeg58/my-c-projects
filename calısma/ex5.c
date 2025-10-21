@@ -11,6 +11,11 @@ int main(void) {
     }
 
     printf("\n girdiğiniz sayilar : \n")
+    for (size_t i = 0; i < count; i++)
+    {
+        /* code */
+    }
+    
     
 
 }
