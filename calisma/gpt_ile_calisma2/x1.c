@@ -3,7 +3,7 @@
 int main(){
     char mesaj[] = "Merhaba";
     printf("%s\n",mesaj);
-    int *p = mesaj;
+    char = mesaj;
     printf("*p = ",*p);
     return 0;
 }
