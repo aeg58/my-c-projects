@@ -15,7 +15,7 @@ int main(void) {
     {
         printf("%d ",sayilar[i]);
     }
-    
+    return 0;
     
 
 }
