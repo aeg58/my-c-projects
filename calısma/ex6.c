@@ -2,6 +2,7 @@
 
 void yazd
 
+
 int main(){
     int sayilar[5];
 
