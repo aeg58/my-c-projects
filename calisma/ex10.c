@@ -12,6 +12,7 @@ int main(void){
     for(int i = 0; i < 5; i++){
         printf("%d ", sayilar[i]);
     }   
-    
+    printf("\n");
+    return 0;
 
 }
