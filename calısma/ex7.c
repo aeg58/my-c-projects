@@ -16,4 +16,5 @@ int i;
 degistir(sayilar,5);
 
 printf("Degistirilmis dizi: ");
+
 }
