@@ -3,7 +3,7 @@
 int main(void) {
     int a = 10;
 
-    int *p = a/2;
+    int *p = ;
     
     int **pp = &p;
 
