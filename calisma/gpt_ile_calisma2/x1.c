@@ -2,5 +2,11 @@
 
 int main(void) {
     char mesaj[] = "Merhaba";
-    char 
+    char *p = mesaj;
+
+    while (condition)
+    {
+        /* code */
+    }
+    
 }
