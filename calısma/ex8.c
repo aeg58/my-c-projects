@@ -2,7 +2,7 @@
 
 int main(void) {
     int a = 10;
-    *p = a;
+    *p = a/2;
     
     int **pp = &p;
 
