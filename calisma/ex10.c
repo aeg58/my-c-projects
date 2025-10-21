@@ -11,6 +11,7 @@ int main(void){
     printf("Iki katlanmis sayilar: ");
     for(int i = 0; i < 5; i++){
         printf("%d ", sayilar[i]);
-    }
+    }   
+    
 
 }
