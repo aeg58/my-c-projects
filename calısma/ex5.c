@@ -14,6 +14,11 @@ int main(void)
 
     min = sayilar[0];
     max = sayilar[0];
+
+    for (size_t i = 0; i < count; i++)
+    {
+        /* code */
+    }
     
 
     
