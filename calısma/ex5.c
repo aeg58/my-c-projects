@@ -12,5 +12,7 @@ int main(void)
         scanf("%d",&sayilar[i]);
     }
 
-    ort = (float)toplam/5
+    ort = (float)toplam/5;
+
+    
 }
