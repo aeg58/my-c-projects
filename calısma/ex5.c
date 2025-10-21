@@ -4,7 +4,7 @@ int main(void) {
     int sayilar[5];
     int i;
 
-    printf("");
+    printf("5 say");
     for ( i = 0; i < 5; i++)
     {
         scanf6
