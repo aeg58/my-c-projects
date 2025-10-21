@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(void){
-int sayilar[5] = 
+int sayilar[5] = {0};
 }
