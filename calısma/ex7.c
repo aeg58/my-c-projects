@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-void degistir()
+void degistir(){
+    
+}
 
 
 
