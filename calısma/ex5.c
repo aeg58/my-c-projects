@@ -5,7 +5,7 @@ int main(void) {
     int i;
 
 
-    for ( i = 0; i < count; i++)
+    for ( i = 0; i < s; i++)
     {
         /* code */
     }
