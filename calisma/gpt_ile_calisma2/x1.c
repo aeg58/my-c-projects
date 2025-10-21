@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(void) {
-    char mesaj[] = "Merhaba"
+    char mesaj[] = "Merhaba";
 }
