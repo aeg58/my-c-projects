@@ -7,7 +7,7 @@ void yazdir(int dizi[], int boyut){
  {
     printf("%d ", dizi[i]);
  }
- 
+ printf("\n");
 }
 int main(){
     int sayilar[5];
