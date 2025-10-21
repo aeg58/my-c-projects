@@ -5,8 +5,7 @@ int main(void) {
     int i;
 
     printf("5 sayi gir:\n");
-    for ( i = 0; i < 5; i++)
-    {
+    for ( i = 0; i < 5; i++){
         scanf("%d",sayilar[i]);
     }
 
