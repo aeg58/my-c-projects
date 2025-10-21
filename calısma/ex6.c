@@ -4,7 +4,7 @@ int main(){
     int sayilar[5];
 
 
-    pri
+    printf("Lutfen 5 sayi giriniz:\n");
     for (int i = 0; i < 5; i++)
     {
        
