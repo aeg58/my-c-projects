@@ -2,7 +2,11 @@
 
 void degistir(int dizi[],int boyut){
 int i;
-f
+for (size_t i = 0; i < count; i++)
+{
+    /* code */
+}
+
 }
 
 
