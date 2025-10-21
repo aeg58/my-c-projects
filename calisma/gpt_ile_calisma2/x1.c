@@ -7,7 +7,7 @@ int main(void) {
     while (*p != '\0')
     {
         printf("%c ", *p);
-        p+2;
+        p= p;
     }
     return 0;
 }
