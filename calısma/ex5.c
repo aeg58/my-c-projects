@@ -1,20 +1,15 @@
 #include <stdio.h>
 
 int main(void) {
-    int sayilar[5];
-    int i;
+    int dizi[3];
 
-    printf("5 sayi gir:\n");
-    for ( i = 0; i < 5; i++){
-        scanf("%d",&sayilar[i]);
-    }
+    dizi[0] = 10;
+    dizi[1] = 20;
+    dizi[2] = 30;
 
-    printf("\n girdiğiniz sayilar : \n");
-    for ( i = 0; i < 5; i++)
-    {
-        printf("%d ",sayilar[i]);
-    }
+    printf("0. eleman: %d\n", dizi[0]);
+    printf("1. eleman: %d\n", dizi[1]);
+    printf("2. eleman: %d\n", dizi[2]);
+
     return 0;
-    
-
 }
