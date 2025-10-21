@@ -11,8 +11,9 @@ int main(void)
         sum += *p;
         p++;
     }
+
+    printf("Toplam: %d\n", sum);
     
-   
 
 
 
