@@ -13,8 +13,5 @@ int main(void)
         toplam += sayilar[i];
     }
 
-    ort = (float)toplam/5;
-
-    printf("toplam: %d\n",toplam);
-    printf("Ortalama: %.2f\n",ort);
+    
 }
