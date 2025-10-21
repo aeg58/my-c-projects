@@ -19,6 +19,6 @@ int main(void)
         if (sayilar[i] < min)
             min = sayilar[i];
         if (sayilar[i]>max)
-            max = sa            
+            max = sayilar[i];           
     }
 }
