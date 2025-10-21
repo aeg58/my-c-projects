@@ -12,10 +12,9 @@ int main(void)
 
     for ( i = 0; i < 5-i; i++){
     for (size_t i = 0; i < count; i++){
-        
-    }
-    
-    
 
     }
+    
+    
+   }
 }
