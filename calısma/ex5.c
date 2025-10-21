@@ -3,7 +3,7 @@
 int main(void)
 {
     int sayilar[5];
-    int i,
+    int i,min
 
     printf("5 sayi girin : \n");
     for (i = 0; i < 5; i++)
