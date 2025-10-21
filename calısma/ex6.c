@@ -2,7 +2,7 @@
 
 void yazdir(int dizi[], int boyut){
  int i;
- printf("Di");
+ printf("Dizi eleman");
 }
 int main(){
     int sayilar[5];
