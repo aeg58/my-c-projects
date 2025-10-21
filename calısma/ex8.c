@@ -6,4 +6,5 @@ int main(void) {
     int **pp = &p;
 
     printf("a değeri: %d\n", a);
+    printf("a adresi: %p\n", &a);
 }
