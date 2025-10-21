@@ -10,6 +10,7 @@ int main(void)
     for (i = 0; i < 5; i++)
     {
         scanf("%d",&sayilar[i]);
+        toplam 
     }
 
     ort = (float)toplam/5;
