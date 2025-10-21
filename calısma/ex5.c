@@ -17,6 +17,10 @@ int main(void)
 
     for ( i = 1; i < 5; i++)
     {
+        if (sayilar[i])
+        {
+            /* code */
+        }
         
     }
     
