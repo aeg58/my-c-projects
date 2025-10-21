@@ -3,7 +3,7 @@
 int main(void)
 {
     int sayilar[5] = {10, 20, 30, 40, 50};
-    int *p =
+    int *p = s
 
     printf("sayilar[0] = %d\n", sayilar[0]);
     printf("*p = %d\n", *p);
