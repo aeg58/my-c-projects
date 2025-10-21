@@ -14,4 +14,6 @@ int sayilar[5] = {1,2,3,4,5};
 int i;
 
 degistir(sayilar,5);
+
+pr
 }
