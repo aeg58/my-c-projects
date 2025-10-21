@@ -5,7 +5,7 @@ int main(void) {
     int *p = &a;
     int **pp = &p;
 
-    printf("a değeri: %d\n", a);
-    printf("a adresi: %p\n", &a);
-    
+    printf("a = %d\n", a);
+    printf("*p = %d\n", *p);
+    printf("**pp = %d\n", **pp);
 }
