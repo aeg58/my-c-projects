@@ -12,5 +12,5 @@ int main(void)
         scanf("%d",&sayilar[i]);
     }
 
-    ort = 
+    ort = (float)
 }
