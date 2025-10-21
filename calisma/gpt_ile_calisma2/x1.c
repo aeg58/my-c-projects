@@ -4,6 +4,8 @@ int main() {
     char mesaj[] = "Merhaba";
     char *p = &mesaj[0];
 
+    printf("%p", p + 1);
+
     printf("mesaj dizisi: %s\n", mesaj);
     printf("mesaj[0] karakteri: %c\n", *p);
     printf("mesaj dizisinin adresi: %p\n", (void*)mesaj);
