@@ -4,6 +4,6 @@ void ikiKatla(int *dizi,int n){
 
 }
 
-int main(){
-    
+int main(void){
+
 }
