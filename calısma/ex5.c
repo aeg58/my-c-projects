@@ -12,7 +12,7 @@ int main(void)
 
     for (i = 0; i < 5 - 1; i++)
     {
-        for (j = 0; j < 5 - j - 1; j++)
+        for (j = 0; j < 5 - i - 1; j++)
         {
             if (dizi[j] > dizi[j + 1])
             {
