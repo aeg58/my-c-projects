@@ -20,6 +20,6 @@ int main(){
     }
 
     yazdir(sayilar, 5);
-    register
+    return 0;
     
 }
