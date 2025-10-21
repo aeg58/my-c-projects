@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 void yazdir(int dizi[], int boyut){
- int i    for
+ int i;
+ 
 }
 int main(){
     int sayilar[5];
