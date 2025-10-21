@@ -5,5 +5,6 @@ int main(void) {
    int i,toplam = 0;
    float ort;
 
-   printf("5 sayi girin : \n")
+   printf("5 sayi girin : \n");
+   
 }
