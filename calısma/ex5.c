@@ -13,7 +13,7 @@ int main(void)
     }
 
     min = sayilar[0];
-    max = sayilar[]
+    max = sayilar[0]
 
     
 }
