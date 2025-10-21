@@ -2,7 +2,7 @@
 
 void yazdir(int dizi[], int boyut){
     for
-
+}
 int main(){
     int sayilar[5];
 
