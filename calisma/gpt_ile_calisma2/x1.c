@@ -1,9 +1,14 @@
 #include <stdio.h>
 
-int main(){
+int main() {
     char mesaj[] = "Merhaba";
-    printf("%s\n",mesaj);
     char *p = &mesaj[0];
-    printf("*p = %c\n", *p);
+
+    printf("mesaj dizisi: %s\n", mesaj);
+    printf("mesaj[0] karakteri: %c\n", *p);
+    printf("mesaj dizisinin adresi: %p\n", (void*)mesaj);
+    printf("p pointer'ının tuttuğu adres: %p\n", (void*)p);
+    printf("p değişkeninin kendi adresi: %p\n", (void*)&p);
+
     return 0;
 }
