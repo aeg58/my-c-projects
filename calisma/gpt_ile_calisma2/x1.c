@@ -3,4 +3,5 @@
 int main(){
     char mesaj[] = "Merhaba";
     printf("%s\n",mesaj);
+    return 
 }
