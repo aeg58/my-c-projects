@@ -18,6 +18,7 @@ int main(void)
            {
             temp=dizi[j];
             dizi[j]=dizi[j+1];
+            
            }
            
 
