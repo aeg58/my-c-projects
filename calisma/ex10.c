@@ -5,6 +5,6 @@ void ikiKatla(int *dizi,int n){
 }
 
 int main(void){
-    int sa
+    int sayilar[5] = {1, 2, 3, 4, 5};
 
 }
