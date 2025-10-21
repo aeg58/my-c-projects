@@ -5,6 +5,7 @@ int main() {
     char *p = &mesaj[0];
 
     printf("%p", p + 1);
+    printf("\n");
 
     printf("mesaj dizisi: %s\n", mesaj);
     printf("mesaj[0] karakteri: %c\n", *p);
