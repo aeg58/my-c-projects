@@ -14,16 +14,12 @@ int main(void)
     {
         for (j = 0; j < 5 - j - 1; j++)
         {
-           if (dizi[j]>dizi[j+1])
-           {
-            temp=dizi[j];
-            dizi[j]=dizi[j+1];
-            dizi[j+1]=temp;
-           }
-           
-
-            
+            if (dizi[j] > dizi[j + 1])
+            {
+                temp = dizi[j];
+                dizi[j] = dizi[j + 1];
+                dizi[j + 1] = temp;
+            }
         }
     }
-
 }
