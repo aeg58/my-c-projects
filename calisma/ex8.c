@@ -6,7 +6,7 @@ int main(void)
     int *p = a; 
     int sum = 0;
 
-    while (condition)
+    while (p)
     {
         /* code */
     }
