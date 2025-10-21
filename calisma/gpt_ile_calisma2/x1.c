@@ -3,6 +3,6 @@
 int main(){
     char mesaj[] = "Merhaba";
     printf("%s\n",mesaj);
-    *p
+    *p 
     return 0;
 }
