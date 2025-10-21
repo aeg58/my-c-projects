@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void degistir(int dizi[],int boyut){
-
+int
 }
 
 
