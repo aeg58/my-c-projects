@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 void ikiKatla(int *dizi,int n){
-    for
+    for(int i = 0; i < n; i++){
+        *(dizi + i) = *(dizi + i) * 2;
+    }
 }
 
 int main(void){
