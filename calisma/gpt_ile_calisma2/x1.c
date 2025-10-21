@@ -2,4 +2,5 @@
 
 int main(void) {
     char mesaj[] = "Merhaba";
+    char 
 }
