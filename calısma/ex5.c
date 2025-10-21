@@ -9,7 +9,8 @@ int main(void)
         printf("%d. sayiyi giriniz: ", i + 1);
         scanf("%d", &sayilar[i]);
     }
-    
+
+    fo
 
     
 }
