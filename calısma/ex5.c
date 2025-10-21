@@ -9,6 +9,6 @@ int main(void)
     printf("5 sayi girin : \n");
     for (i = 0; i < count; i++)
     {
-        scanf
+        scanf()
     }
 }
