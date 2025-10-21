@@ -11,7 +11,7 @@ int main(void) {
     }
 
     printf("\n girdiğiniz sayilar : \n")
-    for ( i = 0; i < count; i++)
+    for ( i = 0; i < 5; i++)
     {
         printf("%d ",sayilar[i]);
     }
