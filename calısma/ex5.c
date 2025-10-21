@@ -10,7 +10,7 @@ int main(void) {
         scanf("%d",sayilar[i]);
     }
 
-    printf("\n girdiğiniz sayilar : \n")
+    printf("\n girdiğiniz sayilar : \n");
     for ( i = 0; i < 5; i++)
     {
         printf("%d ",sayilar[i]);
