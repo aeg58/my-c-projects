@@ -7,7 +7,7 @@ int main(void)
     float ort;
 
     printf("5 sayi girin : \n");
-    for (i = 0; i < count; i++)
+    for (i = 0; i < 5; i++)
     {
         scanf("%d",&sayilar[i]);
     }
