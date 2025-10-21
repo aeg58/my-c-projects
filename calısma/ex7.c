@@ -20,3 +20,5 @@ for ( i = 0; i < 5; i++)
 {
     printf("%d ", sayilar[i]);  
 }
+return 0;
+}
