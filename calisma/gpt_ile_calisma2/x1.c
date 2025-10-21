@@ -4,7 +4,7 @@ int main(void) {
     char mesaj[] = "Merhaba";
     char *p = mesaj;
 
-    while (condition)
+    while (*p = )
     {
         /* code */
     }
