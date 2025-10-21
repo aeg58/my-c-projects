@@ -15,8 +15,7 @@ int main(void)
     min = sayilar[0];
     max = sayilar[0];
 
-    for (i = 1; i < 5; i++)
-    {
+    for (i = 1; i < 5; i++) {
         if (sayilar[i] < min)
             min = sayilar[i];
     }
