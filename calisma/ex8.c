@@ -8,6 +8,8 @@ int main(void)
 
     while (p<a+5)
     {
+        sum += *p;
+        p++;
     }
     
    
