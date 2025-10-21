@@ -10,7 +10,11 @@ int main(void)
         scanf("%d", &sayilar[i]);
     }
 
-    fo
+    for ( i = 0; i < count; i++)
+    {
+        /* code */
+    }
+    
 
     
 }
