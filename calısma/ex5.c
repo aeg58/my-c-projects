@@ -2,5 +2,5 @@
 
 int main(void) {
    int sayilar[5];
-   int i;
+   int i,toplam = 0;
 }
