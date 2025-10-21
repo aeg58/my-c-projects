@@ -16,5 +16,7 @@ int i;
 degistir(sayilar,5);
 
 printf("Degistirilmis dizi: ");
-
+for ( i = 0; i < 5; i++)
+{
+    printf("%d ", sayilar[i]);  
 }
