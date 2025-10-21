@@ -5,7 +5,7 @@ void yazdir(int dizi[], int boyut){
  printf("Dizi elemanlari: ");
  for ( i = 0; i < count; i++)
  {
-    
+    printf("%d ", dizi[i]);
  }
  
 }
