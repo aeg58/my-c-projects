@@ -28,4 +28,5 @@ int main(void)
     {
         printf("%d ", dizi[i]);
     }
+    return 0;
 }
