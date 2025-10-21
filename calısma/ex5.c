@@ -3,8 +3,7 @@
 int main(void)
 {
     int sayilar[5];
-    int i, toplam = 0;
-    float ort;
+    int i,
 
     printf("5 sayi girin : \n");
     for (i = 0; i < 5; i++)
