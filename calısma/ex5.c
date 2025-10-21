@@ -7,7 +7,7 @@ int main(void)
     for (i = 0; i < 5; i++)
     {
         printf("%d. sayiyi giriniz: ", i + 1);
-        scanf("%d", &sayilar[i]);
+        scanf("%d", &dizi[i]);
     }
 
     for (i = 0; i < 5 - i; i++)
