@@ -24,4 +24,8 @@ int main(void)
     }
 
     printf("Siralanmis dizi: ");
+    for (i = 0; i < 5; i++)
+    {
+        printf("%d ", dizi[i]);
+    }
 }
