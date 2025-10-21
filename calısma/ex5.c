@@ -20,7 +20,7 @@ int main(void)
         if (sayilar[i]<min)
         {
             min = sayilar[i];
-        }
+        }e
         
     }
     
