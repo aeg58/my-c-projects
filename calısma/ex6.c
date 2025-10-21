@@ -18,5 +18,8 @@ int main(){
     {
         scanf("%d", &sayilar[i]);
     }
+
+    yazdir(sayilar, 5);
+    register
     
 }
