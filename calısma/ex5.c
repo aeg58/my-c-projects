@@ -12,7 +12,7 @@ int main(void)
         toplam += sayilar[i];
     }
 
-    min 
+    min = sayilar[i]
 
     
 }
