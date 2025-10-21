@@ -7,4 +7,5 @@ int main(void) {
 
     printf("a değeri: %d\n", a);
     printf("a adresi: %p\n", &a);
+    
 }
