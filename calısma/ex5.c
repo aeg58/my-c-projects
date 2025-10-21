@@ -19,7 +19,7 @@ int main(void)
     {
         if (sayilar[i]<min)
         {
-            /* code */
+            min = sayilar[i];
         }
         
     }
