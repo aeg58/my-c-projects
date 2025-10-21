@@ -14,5 +14,5 @@ int main(void)
 
     ort = (float)toplam/5;
 
-    printf("toplam: %d\n")
+    printf("toplam: %d\n",toplam);
 }
