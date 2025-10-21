@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-int sayilar[5] = {1,2
-};
+int sayilar[5] = {1,2,3,4,5};
+yazdir(sayilar, 5);
 }
