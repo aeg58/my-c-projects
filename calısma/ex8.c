@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    int sayilar[
+    int sayilar[5] = {10, 20, 30, 40, 50};
 }
