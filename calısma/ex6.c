@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+void yazd
+
 int main(){
     int sayilar[5];
 
