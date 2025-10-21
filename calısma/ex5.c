@@ -14,7 +14,7 @@ int main(void)
     {
         for (j = 0; j < 5 - j - 1; j++)
         {
-           if (dizi[j]>dizi[])
+           if (dizi[j]>dizi[j+1])
            {
             /* code */
            }
