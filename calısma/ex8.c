@@ -4,7 +4,7 @@ int main(void)
 {
     int a = 10;
     int *p = &a;
-    int *p = *p
+    int *p = *p * 2;
     int **pp = &p;
 
     printf("a = %d\n", a);
