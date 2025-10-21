@@ -3,7 +3,7 @@
 int main(void)
 {
     int dizi[5];
-    int i, temp;
+    int i, j,temp;
     for (i = 0; i < 5; i++)
     {
         printf("%d. sayiyi giriniz: ", i + 1);
