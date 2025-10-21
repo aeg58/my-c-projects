@@ -12,7 +12,7 @@ int main(void)
 
     for ( i = 0; i < 5-i; i++)
     {
-        
+        fo
     }
     
 
