@@ -3,4 +3,7 @@
 int main(void) {
    int sayilar[5];
    int i,toplam = 0;
+   float ort;
+
+   
 }
