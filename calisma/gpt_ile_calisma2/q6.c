@@ -13,6 +13,7 @@ int main(){
         {
             arr[i] = max;
         }
+        i
         
     }
     
