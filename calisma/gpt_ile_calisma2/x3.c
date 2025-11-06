@@ -6,7 +6,7 @@ int main(){
     int *ptr;
     ptr = arr;
 
-    for (size_t i = 0; i < count; i++)
+    for (int i = 0; i < count; i++)
     {
         /* code */
     }
