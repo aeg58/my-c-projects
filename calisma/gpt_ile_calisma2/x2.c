@@ -8,7 +8,7 @@ int main(){
     {
         scanf("%d",&arr[i]);
     }
-    printf();
+    printf("------------------------------");
 
     for ( i = 0; i < 5; i++)
     {
