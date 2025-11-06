@@ -13,7 +13,11 @@ int main(){
         {
             arr[i] = max;
         }
-        i
+        if (arr[i]<)
+        {
+            /* code */
+        }
+        
         
     }
     
