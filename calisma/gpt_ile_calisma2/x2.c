@@ -1,3 +1,3 @@
 # include <stdio.h>
 
-int maib-n
+int main
