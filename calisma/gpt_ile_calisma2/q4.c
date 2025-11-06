@@ -6,7 +6,7 @@ int main(){
 
     for (int i = 5; i > 5 - 1; i--)
     {           
-        printf("%d");
+        printf("%d",arr);
     }
     
 }
