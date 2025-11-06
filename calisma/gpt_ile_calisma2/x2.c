@@ -14,6 +14,10 @@ int main(){
     {
         printf("%d\n",arr[i]);
     }
+
+    printf("%d", arr[i]);
+printf("%p", &arr[i]);
+
     
     
 }
