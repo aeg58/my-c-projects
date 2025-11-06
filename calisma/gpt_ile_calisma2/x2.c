@@ -17,7 +17,7 @@ int main(){
 
     printf("%d", arr[i]);
 printf("%p", &arr[i]);
-
+    return 0;
     
     
 }
