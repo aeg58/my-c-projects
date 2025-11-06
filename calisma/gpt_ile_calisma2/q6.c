@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int arr[5] = {1,2,0,4,5};
+    int arr[5] = {1,2,0,9,5};
     int i,min,max;
 
     min = arr[0];
