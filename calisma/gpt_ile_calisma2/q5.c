@@ -8,7 +8,7 @@ int main(){
     for ( i = 0; i < 5; i++)
     {
         temp = arr[i]
-        arr 
+        arr [i] = arr[4 - i];
     }
     
 }
