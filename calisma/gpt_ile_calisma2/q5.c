@@ -9,6 +9,7 @@ int main(){
     {
         temp = arr[i]
         arr [i] = arr[4 - i];
+        arr[4 - i] = temp;
     }
     
 }
