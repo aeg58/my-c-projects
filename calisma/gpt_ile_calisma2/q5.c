@@ -8,10 +8,6 @@ int main(){
     for ( i = 0; i < 5; i++)
     {
         temp = arr[i]
-        for (size_t i = 0; i < count; i++)
-        {
-            /* code */
-        }
         
     }
     
