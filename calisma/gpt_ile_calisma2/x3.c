@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int arr
+    int arr[5];
+    
 
 }
