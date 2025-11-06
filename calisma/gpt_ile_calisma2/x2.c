@@ -4,7 +4,7 @@ int main(){
     int arr[5];
     int i;
     printf("Enter 5 numbers \n");
-    for ( i = 0; i < count; i++)
+    for ( i = 0; i < 5; i++)
     {
         
     }
