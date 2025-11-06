@@ -6,7 +6,7 @@ int main(){
     printf("Enter 5 numbers \n");
     for ( i = 0; i < 5; i++)
     {
-        scanf("%d",&arr);
+        scanf("%d",&arr[i]);
     }
     
 }
