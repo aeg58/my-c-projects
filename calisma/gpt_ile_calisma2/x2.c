@@ -9,10 +9,8 @@ int main(){
         scanf("%d",&arr[i]);
     }
     printf("------------------------------\n");
-
-   for (i = 0; i < 5; i++) {
-    printf("Address of arr[%d] = %p, Value = %d\n", i, &arr[i], arr[i]);
-}
+printf("arr     = %p\n", arr);
+printf("&arr[0] = %p\n", &arr[0]);
+printf("&arr    = %p\n", &arr);
     return 0;
-    
 }
