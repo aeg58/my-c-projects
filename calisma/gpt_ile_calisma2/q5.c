@@ -11,6 +11,9 @@ int main(){
         arr[i] = arr[4 - i];
         arr[4 - i] = temp;
     }
-    
+    for ( i = 0; i < 5; i++)
+    {           
+        printf("%d\n",arr[i]);
+    }
     
 }
