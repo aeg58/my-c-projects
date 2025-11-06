@@ -2,4 +2,10 @@
 
 int main(){
     int arr[5];
+
+    for (size_t i = 0; i < count; i++)
+    {
+        /* code */
+    }
+    
 }
