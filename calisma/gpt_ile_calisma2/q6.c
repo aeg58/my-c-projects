@@ -11,7 +11,7 @@ int main(){
     {
         if (arr[i]>max)
         {
-            max = arr;
+            max = arr[i];
         }
         if (arr[i]< min)
         {
