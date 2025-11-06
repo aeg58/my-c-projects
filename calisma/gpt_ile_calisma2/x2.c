@@ -3,7 +3,7 @@
 int main(){
     int arr[5];
 
-    printf();
+    printf("Enter ");
     for (size_t i = 0; i < count; i++)
     {
         
