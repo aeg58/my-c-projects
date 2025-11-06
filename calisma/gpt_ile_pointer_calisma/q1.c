@@ -7,7 +7,8 @@ int main(){
 
     for (int i = 0; i < 5; i++)
     {
-        
+        printf("ptr + %d = %p  →  *(ptr + %d) = %d\n",
+           i, (ptr + i), i, *(ptr + i));
     }
     
 }
