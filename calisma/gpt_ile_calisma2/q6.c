@@ -9,7 +9,7 @@ int main(){
 
     for ( i = 0; i < 5; i++)
     {
-        if (arr[i])
+        if (arr[i]>max)
         {
             /* code */
         }
