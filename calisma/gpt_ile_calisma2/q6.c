@@ -15,7 +15,7 @@ int main(){
         }
         if (arr[i]< min)
         {
-            /* code */
+            
         }
         
         
