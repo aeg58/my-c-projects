@@ -7,7 +7,7 @@ int main(){
     min = arr[0];
     max = arr[0];
 
-    for ( i = 0; i < count; i++)
+    for ( i = 0; i < 5; i++)
     {
         /* code */
     }
