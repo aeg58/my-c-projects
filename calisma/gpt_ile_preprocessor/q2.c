@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "a.h"
 
-#ifndef A
-#define MATHUTILS_H
+#ifndef A_H
+#define MAT
+HUTILS_H
 
 
