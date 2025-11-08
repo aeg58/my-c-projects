@@ -2,5 +2,5 @@
 #define DEBUG
 
 int main(){
-    
+    int x = 5
 }
