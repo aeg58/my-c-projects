@@ -1,13 +1,8 @@
 #include <stdio.h>
-#define DEBUG
+#define VERSION 2
 
-int main()
-{
-   
-
-#ifdef DEBUG
-        printf("Debug mode\n");
+#ifdef __________
+    printf("This is Version 2 of the program\n");
 #else
-        printf("Normal mode\n");
+    printf("This is Version 1 of the program\n");
 #endif
-}
