@@ -1,8 +1,1 @@
 #include <stdio.h>
-#if !defined(FUNCTIONS_H)
-#define FUNCTIONS_H
-
-int add(int a, int b);
-
-
-#endif // FUNCTIONS_H
