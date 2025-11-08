@@ -10,7 +10,7 @@ struct Student
 int main()
 {
     struct Student s1;
-    s1.name = 'Ali';
+    s1.name = "Ali";
     s1.age = 21;
     s1.grade = 90;
 
