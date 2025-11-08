@@ -1,4 +1,6 @@
 #include <stdio.h>
 #define DEBUG
 
-int main()
+int main(){
+    
+}
