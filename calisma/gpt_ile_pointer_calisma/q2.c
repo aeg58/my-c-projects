@@ -6,5 +6,9 @@ int main(){
     {5, 7, 1}
 };
 
+int min,max;
+
+
+
 
 }
