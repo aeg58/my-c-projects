@@ -5,5 +5,5 @@
 int main() {
    float r;
    printf("Enter radius : ")
-   scanf
+   scanf()
 }
