@@ -4,5 +4,5 @@
 
 int main() {
    float r;
-   printf
+   printf("Enter ")
 }
