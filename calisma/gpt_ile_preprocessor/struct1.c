@@ -20,7 +20,7 @@ int main()
     students[1].age = 22;
     students[1].grade = 85;
 
-    for (int i = 0; i < count; i++)
+    for (int i = 0; i < 2; i++)
     {
         /* code */
     }
