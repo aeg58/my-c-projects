@@ -18,7 +18,7 @@ int main()
             if (*(*(arr + i) + j) > max)
                 max = *(*(arr + i) + j);
             if (*(*(arr+i)+j)<min)
-                min = *(*(arr+0)+j);   
+                min = *(*(arr+iF)+j);   
             }
     }
 
