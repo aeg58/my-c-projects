@@ -22,9 +22,7 @@ int main()
 
     for (int i = 0; i < 2; i++)
     {
-        strcpy(students[i].name, "Ali");
-        students[i].age = 21;
-    students[0].grade = 90;
-    } 
+        printf("Name: %s, Age: %d, Grade: %.2f\n", students[i].name, students[i].age, students[i].grade);
+    }
     
 }
