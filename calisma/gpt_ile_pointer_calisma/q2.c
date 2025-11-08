@@ -8,7 +8,7 @@ int main(){
 
 int min,max;
 
-min = *(*())
+min = *(*(arr+0))
 
 
 }
