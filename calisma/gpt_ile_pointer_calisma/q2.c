@@ -11,4 +11,10 @@ int min,max;
 min = *(*(arr+0)+0);
 max = *(*(arr+0)+0);
 
+for (size_t i = 0; i < count; i++)
+{
+    /* code */
+}
+
+
 }
