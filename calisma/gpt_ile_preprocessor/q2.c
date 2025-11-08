@@ -1,7 +1,7 @@
 #include <stdio.h>
-#if !defined(FUNCTIONS)
-#define FUNCTIONS
+#if !defined(FUNCTIONS_H)
+#define FUNCTIONS_H
 
 
 
-#endif // FUNCTIONS
+#endif // FUNCTIONS_H
