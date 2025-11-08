@@ -2,6 +2,6 @@
 #include "a.h"
 
 #ifndef A_H
-#define MATHUTILS_H
+#define A_H
 
 
