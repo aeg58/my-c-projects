@@ -4,13 +4,6 @@
 #ifndef A_H
 #define A_H
 
-
-
-int add(int a, int b) {
-    return a + b;
-}
-
-float average(float x, float y) {
-    return (x + y) / 2;
-}
+int add(int a, int b);
+float average(float x, float y);
 #endif
