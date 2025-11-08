@@ -13,7 +13,7 @@ max = *(*(arr+0)+0);
 
 for (int i = 0; i < 2; i++)
 {
-    for (int j = 0; j < count; j++)
+    for (int j = 0; j < ; j++)
     {
         /* code */
     }
