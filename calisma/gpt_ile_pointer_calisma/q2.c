@@ -17,7 +17,7 @@ for (int i = 0; i < 2; i++)
     {
         if (*(*(arr+0)+0)>max)
         {
-            /* code */
+            max = *(*(arr+0)+0)
         }
         
     }
