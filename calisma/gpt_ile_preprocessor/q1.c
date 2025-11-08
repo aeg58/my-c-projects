@@ -6,4 +6,6 @@ int main() {
    float r;
    printf("Enter radius : ")
    scanf("%f",&r)
+
+   float area = 
 }
