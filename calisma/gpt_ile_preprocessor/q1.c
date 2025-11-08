@@ -4,5 +4,5 @@
 
 int main() {
     int a = 5;
-    printf("%d",square(a));
+    printf("%d",cube(a));
 }
