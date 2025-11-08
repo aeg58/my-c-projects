@@ -4,6 +4,6 @@
 
 int main() {
     printf("enter a number : ");
-    scanf("%d",&x)
+    scanf("%d",&)
     printf("%d",cube(a));
 }
