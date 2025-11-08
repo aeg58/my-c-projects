@@ -11,5 +11,6 @@
     ]
   },
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 800
+  "files.autoSaveDelay": 800,
+  "C_Cpp.dimInactiveRegions": false
 }
