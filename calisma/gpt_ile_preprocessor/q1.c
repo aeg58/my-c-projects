@@ -3,6 +3,7 @@
 
 
 int main() {
-    printf("enter a number : ")
+    printf("enter a number : ");
+    scanf("")
     printf("%d",cube(a));
 }
