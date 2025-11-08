@@ -1,7 +1,7 @@
 #include <stdio.h>
-#if !defined()
-#define 
+#if !defined(#if !defined())
+#define #define 
 
 
 
-#endif // 
+#endif // #endif // 
