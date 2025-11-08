@@ -10,3 +10,4 @@ int main()
 #else
         printf("Normal mode\n");
 #endif
+}
