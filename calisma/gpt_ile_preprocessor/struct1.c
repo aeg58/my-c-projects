@@ -16,5 +16,5 @@ int main() {
 
     // buraya 1 satır: printf ile ekrana bastır
     printf("Name : %s
-        ");
+            Age : ");
 }
