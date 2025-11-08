@@ -17,9 +17,9 @@ int main()
         {
             if (*(*(arr + i) + j) > max)
                 max = *(*(arr + i) + j);
-            if (*(*(arr+i)+j)<min)
-                min = *(*(arr+iF)+j);   
-            }
+            if (*(*(arr + i) + j) < min)
+                min = *(*(arr + i) + j);
+        }
     }
 
     printf("Min = %d, Max = %d\n", min, max);
