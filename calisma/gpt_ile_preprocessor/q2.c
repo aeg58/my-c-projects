@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define VERSION 
+#define VERSIO
 
 int main(void) {
 #ifdef VERSION
