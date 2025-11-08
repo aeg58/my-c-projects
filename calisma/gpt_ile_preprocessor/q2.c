@@ -1,2 +1,7 @@
 #include <stdio.h>
-ifn
+#if !defined(MACRO)
+#define MACRO
+
+
+
+#endif // MACRO
