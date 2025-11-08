@@ -16,8 +16,7 @@ int main()
         for (int j = 0; j < 3; j++)
         {
             if (*(*(arr + 0) + 0) > max)
-
-               max = *(*(arr + 0) + 0);
+                max = *(*(arr + 0) + 0);
         }
     }
 }
