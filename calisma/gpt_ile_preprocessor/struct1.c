@@ -8,7 +8,7 @@ struct Student {
 };
 
 int main() {
-    struct struct1
+    struct St
     {
         /* data */
     };
