@@ -3,7 +3,7 @@
 
 int main(){
 
-    int add(int a, int b);
+    int add(int t, int b);
 float average(float x, float y);
 
 }
