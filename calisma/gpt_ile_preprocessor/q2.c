@@ -10,3 +10,7 @@ int add(int a, int b) {
     return a + b;
 }
 
+float average(float x, float y) {
+    return (x + y) / 2;
+}
+#endif
