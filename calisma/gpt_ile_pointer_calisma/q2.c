@@ -15,7 +15,7 @@ int main()
     {
         for (int j = 0; j < 3; j++)
         {
-            if (*(*(arr + 0) + 0) > max)
+            if (*(*(arr + i) + 0) > max)
                 max = *(*(arr + 0) + 0);
             if (*(*(arr+0)+0)<min)
                 min = *(*(arr+0)+0);   
