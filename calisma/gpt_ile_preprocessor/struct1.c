@@ -17,4 +17,12 @@ int main()
     students[0].grade = 90;
 
     strcpy(students[1].name, "Ayse");
+    students[1].age = 22;
+    students[1].grade = 85;
+
+    for (int i = 0; i < count; i++)
+    {
+        /* code */
+    }
+    
 }
