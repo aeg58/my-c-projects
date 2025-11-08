@@ -25,6 +25,6 @@ int main()
         strcpy(students[i].name, "Ali");
         students[i].age = 21;
     students[0].grade = 90;
-    }
+    } 
     
 }
