@@ -1,19 +1,18 @@
 #include <stdio.h>
 #include <string.h>
 
-struct Student
-{
+struct Student {
     char name[50];
     int age;
     float grade;
 };
 
-int main()
-{
+int main() {
     struct Student s1;
+
     strcpy(s1.name, "Ali");
     s1.age = 21;
-    s1.grade = 90;
+    s1.grade = 90.0;
 
-    printf("Name : %s\n Age : %d\n Grade : %d\n",s1.name, s1.age, s1.grade);
+    printf("Name: %s\nAge: %d\nGrade: %.2f\n", s1.name, s1.age, s1.grade);
 }
