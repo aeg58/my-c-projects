@@ -20,9 +20,12 @@ int main()
     students[1].age = 22;
     students[1].grade = 85;
 
+    strcpy(students[2].name, "Mehmet");
+    students[2].age = 20;
+    students[2].grade = 88;
+
     for (int i = 0; i < 2; i++)
     {
         printf("Name: %s, Age: %d, Grade: %.2f\n", students[i].name, students[i].age, students[i].grade);
     }
-    
 }
