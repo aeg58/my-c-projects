@@ -17,7 +17,7 @@ int main()
         {
             if (*(*(arr + 0) + 0) > max)
 
-                max = *(*(arr + 0) + 0);
+               max = *(*(arr + 0) + 0);
         }
     }
 }
