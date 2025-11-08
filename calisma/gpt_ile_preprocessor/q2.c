@@ -6,4 +6,3 @@
 #else
     printf("This is Version 1 of the program\n");
 #endif
-VERSION 2
