@@ -8,6 +8,6 @@ int main() {
     scanf("%d",&n);
 
 
-    printf("Cube of %d is = %d"n,cube(n));
+    printf("Cube of %d is = %d",n,cube(n));
     
 }
