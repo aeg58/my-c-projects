@@ -8,5 +8,5 @@ struct Student {
 };
 
 int main() {
-    strutc Student
+    strutc Student students[3];
 }
