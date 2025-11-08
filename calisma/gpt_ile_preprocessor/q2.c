@@ -1,2 +1,2 @@
 #include <stdio.h>
-#define DEBU
+#define DEBUG
