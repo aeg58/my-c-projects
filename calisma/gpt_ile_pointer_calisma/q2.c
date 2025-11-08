@@ -1,29 +1,23 @@
-# include <stdio.h>
+#include <stdio.h>
 
-int main(){
-    int arr[2][3] = {
-    {4, 2, 9},
-    {5, 7, 1}
-};
-
-int min,max;
-
-min = *(*(arr+0)+0);
-max = *(*(arr+0)+0);
-
-for (int i = 0; i < 2; i++)
+int main()
 {
-    for (int j = 0; j < 3; j++)
+    int arr[2][3] = {
+        {4, 2, 9},
+        {5, 7, 1}};
+
+    int min, max;
+
+    min = *(*(arr + 0) + 0);
+    max = *(*(arr + 0) + 0);
+
+    for (int i = 0; i < 2; i++)
     {
-        if (*(*(arr+0)+0)>max)
-        
-            max = *(*(arr+0)+0);
+        for (int j = 0; j < 3; j++)
+        {
+            if (*(*(arr + 0) + 0) > max)
 
-        
-        
+                max = *(*(arr + 0) + 0);
+        }
     }
-    
-}
-
-
 }
