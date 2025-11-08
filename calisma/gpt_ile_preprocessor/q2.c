@@ -5,5 +5,5 @@ int main(){
     int x = 5
 
 
-    #if
+    #ifdef+
 }
