@@ -1,7 +1,7 @@
 #include <stdio.h>
-#if !defined(fun)
-#define fun
+#if !defined(FUNC)
+#define FUNC
 
 
 
-#endif // fun
+#endif // FUNC
