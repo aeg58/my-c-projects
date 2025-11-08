@@ -8,5 +8,6 @@ struct Student {
 };
 
 int main() {
-    struct Student students[3];
+    strutc Student students[3]; 
+    
 }
