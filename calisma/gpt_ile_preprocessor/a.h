@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main()
+main()
 {
 
     int add(int t, int b);
     float average(float x, float y);
-}
+
