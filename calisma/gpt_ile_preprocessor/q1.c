@@ -8,4 +8,5 @@ int main() {
    scanf("%f",&r)
 
    float area = r*r*PI;
+   
 }
