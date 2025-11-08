@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define s
+#define square
 
 
 int main() {
