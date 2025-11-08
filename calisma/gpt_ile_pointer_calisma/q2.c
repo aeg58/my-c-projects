@@ -22,5 +22,5 @@ int main()
             }
     }
 
-    printf
+    printf("Min = %d, Max = %d\n", min, max);
 }
