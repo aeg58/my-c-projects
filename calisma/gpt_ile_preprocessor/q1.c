@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define PI 3.1459
+#define s
 
 
 int main() {
