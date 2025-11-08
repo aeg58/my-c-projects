@@ -3,7 +3,7 @@
 
 int main()
 {
-    int x = 5
+   
 
 #ifdef DEBUG
         printf("Debug mode\n");
