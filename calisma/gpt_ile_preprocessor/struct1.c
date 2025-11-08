@@ -8,9 +8,5 @@ struct Student {
 };
 
 int main() {
-    struct St
-    {
-        /* data */
-    };
-    
+    strutc S
 }
