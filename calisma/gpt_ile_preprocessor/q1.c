@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define cube(x) ((x)*(x))
+#define cube(x) ((x)*(x)*(x))
 
 
 int main() {
