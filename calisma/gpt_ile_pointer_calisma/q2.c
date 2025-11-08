@@ -21,4 +21,6 @@ int main()
                 min = *(*(arr+0)+0);   
             }
     }
+
+    printf
 }
